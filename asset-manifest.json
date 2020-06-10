@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Navheenerla/react-url/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Navheenerla/react-url/static/js/main.6ec7b9ef.chunk.js",
-    "main.js.map": "/Navheenerla/react-url/static/js/main.6ec7b9ef.chunk.js.map",
-    "runtime-main.js": "/Navheenerla/react-url/static/js/runtime-main.05b40c51.js",
-    "runtime-main.js.map": "/Navheenerla/react-url/static/js/runtime-main.05b40c51.js.map",
-    "static/js/2.cf48d1a5.chunk.js": "/Navheenerla/react-url/static/js/2.cf48d1a5.chunk.js",
-    "static/js/2.cf48d1a5.chunk.js.map": "/Navheenerla/react-url/static/js/2.cf48d1a5.chunk.js.map",
-    "index.html": "/Navheenerla/react-url/index.html",
-    "precache-manifest.f14f6962bae57bc899d86a787db3fcdd.js": "/Navheenerla/react-url/precache-manifest.f14f6962bae57bc899d86a787db3fcdd.js",
-    "service-worker.js": "/Navheenerla/react-url/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Navheenerla/react-url/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cf48d1a5.chunk.js.LICENSE.txt": "/Navheenerla/react-url/static/js/2.cf48d1a5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Navheenerla/react-url/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-url/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-url/static/js/main.40894629.chunk.js",
+    "main.js.map": "/react-url/static/js/main.40894629.chunk.js.map",
+    "runtime-main.js": "/react-url/static/js/runtime-main.f13226ee.js",
+    "runtime-main.js.map": "/react-url/static/js/runtime-main.f13226ee.js.map",
+    "static/js/2.cf48d1a5.chunk.js": "/react-url/static/js/2.cf48d1a5.chunk.js",
+    "static/js/2.cf48d1a5.chunk.js.map": "/react-url/static/js/2.cf48d1a5.chunk.js.map",
+    "index.html": "/react-url/index.html",
+    "precache-manifest.7c6f99479b1b7153bbaa3fe6bd874f44.js": "/react-url/precache-manifest.7c6f99479b1b7153bbaa3fe6bd874f44.js",
+    "service-worker.js": "/react-url/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-url/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cf48d1a5.chunk.js.LICENSE.txt": "/react-url/static/js/2.cf48d1a5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-url/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.05b40c51.js",
+    "static/js/runtime-main.f13226ee.js",
     "static/js/2.cf48d1a5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6ec7b9ef.chunk.js"
+    "static/js/main.40894629.chunk.js"
   ]
 }
